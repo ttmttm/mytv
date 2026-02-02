@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD",Tamil Vision TV (1080p)
+https://live.cmr24.fm/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="SunTV.in@HD",Sun TV HD (720p)
+http://15.235.144.106:14054/
