@@ -37,3 +37,5 @@ https://fl1.moveonjoy.com/CBS_News/index.m3u8
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD",Totalmusic (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
