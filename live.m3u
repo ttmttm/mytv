@@ -5,3 +5,5 @@ https://live.cmr24.fm/TVI/HD/playlist.m3u8
 http://15.235.144.106:14054/
 #EXTINF:-1 tvg-id="EETTV.ca@SD",EET TV (1080p) [Not 24/7]
 https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca@SD",Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
