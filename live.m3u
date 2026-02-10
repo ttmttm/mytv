@@ -39,3 +39,25 @@ https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="Totalmusic.uk@HD",Totalmusic (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (360p) [Not 24/7]
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="TSN2.ca@SD",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="TSN2.ca@SD",TSN2 (360p) [Not 24/7]
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="TSN3.ca@SD",TSN3 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="TSN3.ca@SD",TSN3 (360p) [Not 24/7]
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="TSN4.ca@SD",TSN4 (720p) [Not 24/7]
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="TSN4.ca@SD",TSN4 (360p) [Not 24/7]
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="TSN5.ca@SD",TSN5 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-id="TSN5.ca@SD",TSN5 (360p) [Not 24/7]
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East (1080p) [Not 24/7]
+https://tvpass.org/live/USANetworkEast/hd
