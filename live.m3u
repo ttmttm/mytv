@@ -61,3 +61,5 @@ https://tvpass.org/live/tsn5/hd
 https://tvpass.org/live/tsn5/sd
 #EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East (1080p) [Not 24/7]
 https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-id="",MSNBC (360p)
+https://tvpass.org/live/MSNBC/sd
