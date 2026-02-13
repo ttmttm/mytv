@@ -63,3 +63,7 @@ https://tvpass.org/live/tsn5/sd
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="",MSNBC (360p)
 https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (720p)
+https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1 (720p) [Not 24/7]
+https://tvpass.org/live/WNBCDT1/hd
