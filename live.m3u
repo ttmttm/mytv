@@ -63,3 +63,7 @@ https://tvpass.org/live/MSNBC/sd
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WNBCDT1/hd
+#EXTINF:-1 tvg-id="MNX.in@HD",MNX HD (1080p)
+http://116.90.120.128:8000/play/a0i6/index.m3u88
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD",Movies Now + (1080p)
+http://116.90.120.128:8000/play/a0i4/index.m3u88
