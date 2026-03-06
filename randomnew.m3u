@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
+#EXTINF:-1 tvg-id="WRCDT1.us@SD",WRC-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
+#EXTINF:-1 tvg-id="SunTV.in@HD",Sun TV HD (720p)
+http://15.235.144.106:14054
+#EXTINF:-1 tvg-id="StarVijay.in@HD",Star Vijay HD (360p)
+http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in@HD",Star Vijay HD (360p)
+http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in@SD",News18 Tamil Nadu (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
