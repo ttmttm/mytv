@@ -14,9 +14,9 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@SD",Colors Tamil (720p)
 http://15.235.144.106:14052/
 #EXTINF:-1 tvg-id="StarVijay.in@SD",Star Vijay
-http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8
+http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
 #EXTINF:-1 tvg-id="VijayTakkar.in@SD",Vijay Takkar (576p)
-http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 #EXTINF:-1 tvg-id="ZeeTamil.in@SD",Zee Tamil
 http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
 #EXTINF:-1 tvg-id="SunMusic.in@SD",Sun Music
@@ -36,7 +36,7 @@ http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in@HD",Zee Thirai HD (1080p)
 http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@SD",Star Vijay
-http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
+https://peaky.techcoder40.workers.dev/776.m3u8
 #EXTINF:-1 tvg-id="Totalmusic.uk@HD",Totalmusic (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (1080p) [Not 24/7]
